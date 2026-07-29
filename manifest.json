@@ -1,0 +1,76 @@
+{
+  "name": "DeviceLifecycle-API",
+  "version": "1.0.0",
+  "generated": "2026-07-29",
+  "repositoryType": "independent-extension",
+  "extensionOf": "DeviceLifecycle",
+  "target": "Windows PowerShell 5.1 / Python 3.10+ / FastAPI",
+  "readOnly": true,
+  "defaultPort": 8088,
+  "files": {
+    ".gitignore": {
+      "bytes": 57,
+      "sha256": "8e51614150eca35fdc605d77c7ac2fa8fde6dc4ca639f7492b4d8add5f129a45"
+    },
+    "Api.Config.example.json": {
+      "bytes": 509,
+      "sha256": "e51e1e6bffe0c5a8e6ac928b6f4c139bce79a8aa24a602d26966d3048f1f3cd5"
+    },
+    "DeviceLifecycleApi.Config.psd1": {
+      "bytes": 1749,
+      "sha256": "5e11b4aeb08687e312f38f41fe345bf8e157d4222898ead277d94d01ce6f033a"
+    },
+    "DeviceLifecycleApi.Helpers.psm1": {
+      "bytes": 1750,
+      "sha256": "41e7e4dbcffc7b021afa088dfc5643544f6c234f50e14ed3dfb179f6c180e11c"
+    },
+    "Examples/Query-DeviceLifecycleApi.ps1": {
+      "bytes": 1153,
+      "sha256": "f137a0e30e9ce5eb5ff7fe342be93bc4c3bcbc534563062dc8163dc692e84dff"
+    },
+    "Install-DeviceLifecycleApi.ps1": {
+      "bytes": 11045,
+      "sha256": "e3bb6b799641e19bcb7752e65235ef94ecf14498143467f81c8288b4899fce3b"
+    },
+    "README.md": {
+      "bytes": 7059,
+      "sha256": "8b0a1f44cfa440384e0e1f7211e7ea12dca7f98fc809432367196c62b0f47bb4"
+    },
+    "Reset-DeviceLifecycleApiKey.ps1": {
+      "bytes": 1508,
+      "sha256": "e4253b33937136e65adc370fc00e279f49217c8925dcd6599ef1ca92e570b1b1"
+    },
+    "Start-DeviceLifecycleApi.ps1": {
+      "bytes": 1332,
+      "sha256": "ac1d03c5a524676254dee6704124b7c0b49c857696221380bb0bef4c8c3efe9d"
+    },
+    "Test-DeviceLifecycleApi.ps1": {
+      "bytes": 4645,
+      "sha256": "e3f500e4367b7e7d9dafb57d518a054d8f88396a49018e70f5493cda4a449969"
+    },
+    "Uninstall-DeviceLifecycleApi.ps1": {
+      "bytes": 2240,
+      "sha256": "905f33065d8a10d8e2b5d977318c626a3b663ec0b49b6e810c5dd7bf77c39169"
+    },
+    "app/__init__.py": {
+      "bytes": 77,
+      "sha256": "865afe3c8fe335e1da10230edb3119e46f41e5274c0df0cfcf78075bf2edee92"
+    },
+    "app/main.py": {
+      "bytes": 13667,
+      "sha256": "8c11319833cbd9611fe97a368bb878806bbb058e0d3c134aecf0e0fc69cb98a8"
+    },
+    "docs/API.md": {
+      "bytes": 4224,
+      "sha256": "bb54286a410b2d59efd76f75806ad066e18636e7639c7259833b1c69d05a47b0"
+    },
+    "docs/ARCHITECTURE.md": {
+      "bytes": 1629,
+      "sha256": "9aec7df2ec67db9ccc13d6f0b6b7e74c82f3370ef289f3144e59638c090542d6"
+    },
+    "requirements.txt": {
+      "bytes": 49,
+      "sha256": "6c843b6682a0a51dd3b4ec3dda593b53d13ea62b43b1c795923bec6f62574c66"
+    }
+  }
+}

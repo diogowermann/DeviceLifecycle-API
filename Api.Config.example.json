@@ -1,0 +1,14 @@
+{
+  "organizationName": "orgname",
+  "sourceService": "DeviceLifecycle",
+  "extensionName": "DeviceLifecycle-API",
+  "dataRoot": "C:\\ProgramData\\orgname\\DeviceLifecycle",
+  "reportRelativePath": "Reports\\DeviceLifecycle-Latest.csv",
+  "logDirectoryRelativePath": "Logs",
+  "apiLogDirectory": "C:\\ProgramData\\orgname\\DeviceLifecycleApi\\Logs",
+  "taskName": "orgname - Device Lifecycle API",
+  "listenAddress": "0.0.0.0",
+  "port": 8088,
+  "maxLogLines": 5000,
+  "healthRequiresAuthentication": false
+}

@@ -1,10 +1,10 @@
 # DeviceLifecycle-API
 
 API HTTP interna, somente leitura, para publicar o relatório CSV e os logs
-gerados pelo repositório `DeviceLifecycle`.
+gerados pelo repositório [`DeviceLifecycle`](https://github.com/diogowermann/DeviceLifecycle).
 
 > `DeviceLifecycle-API` é uma extensão opcional e mantida em repositório
-> separado. Ela depende dos arquivos produzidos pelo `DeviceLifecycle`, mas o
+> separado. Ela depende dos arquivos produzidos pelo [`DeviceLifecycle`](https://github.com/diogowermann/DeviceLifecycle), mas o
 > serviço principal não depende da API para executar inventário, quarentena ou
 > exclusão de dispositivos.
 
@@ -94,7 +94,7 @@ Também é possível sobrescrever os IPs permitidos somente nessa execução:
 
 O instalador:
 
-1. valida os arquivos gerados pelo `DeviceLifecycle`;
+1. valida os arquivos gerados pelo [`DeviceLifecycle`](https://github.com/diogowermann/DeviceLifecycle);
 2. valida Python 3.10 ou superior;
 3. cria o diretório de instalação;
 4. cria um ambiente virtual Python;
@@ -235,4 +235,4 @@ Remoção completa da extensão:
 ```
 
 A desinstalação não remove o repositório principal nem os relatórios, logs ou
-`state.json` do `DeviceLifecycle`.
+`state.json` do [`DeviceLifecycle`](https://github.com/diogowermann/DeviceLifecycle).
